@@ -57,7 +57,7 @@ The goal is to understand the performance trends of each vessel and identify opp
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/fleet-energy-analysis.git
+   git clone https://github.com/keertisuryawanshi/Feet_Energy_Analysis.git
    ```
 
 2. **Install Required Libraries**:
@@ -70,14 +70,6 @@ The goal is to understand the performance trends of each vessel and identify opp
 
 3. **Run the Notebooks**:
 
-   - Navigate to the `TUI_Cruises/` directory.
+   - Navigate to the  directory.
    - Open the Jupyter Notebook for analyses.
    - Execute the cells to view the analyses and generated graphs of **Vessel 1** and **Vessel 2**.
-
-## Project Structure
-
-- `data/` - Contains the `data.csv` dataset.
-- `docs/` - Includes documentation and the `schema.pdf` file.
-- `notebooks/` - Jupyter Notebooks with separate analyses for each vessel.
-- `requirements.txt` - List of Python libraries required to run the project.
-- `README.md` - Project documentation (this file).
