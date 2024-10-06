@@ -57,7 +57,7 @@ The goal is to understand the performance trends of each vessel and identify opp
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/keertisuryawanshi/Feet_Energy_Analysis.git
+   git clone https://github.com/keertisuryawanshi/Fleet_Energy_Analysis.git
    ```
 
 2. **Install Required Libraries**:
